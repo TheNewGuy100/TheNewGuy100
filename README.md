@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img src="./image.png" align="center", width="500">
+ <img src="./image.png" align="center", width="300">
 </p>
 <h1 align="center"> Pedro Henrique Bohn Costa </h1>
 
