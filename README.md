@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-<i class="fab fa-github"></i>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
 
 
 
 
+
+# Contatos
+<p>
+  <img src="./github.svg">
+  hello
+</p>
 <!--
 **TheNewGuy100/TheNewGuy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
