@@ -1,10 +1,21 @@
 
 <link rel="stylesheet" src="./customcss.css">
 
+# Pedro Henrique Bohn Costa
 
+<!-- &repo=github-readme-stats -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true)
+
+# OBJETIVOS
+- [ ] Terminar página de entrodução do github
+- [ ] Terminar meus estudos em C#
+- [ ] Aprender desenvolvimento de jogos em ambiente 3D
+- [ ] Melhorar minha velocidade e produção de modelos 3D
 
 # SKILLS
-  **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE:** |
+  **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE:**
   <br>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150" height="40">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="150" height="40">
