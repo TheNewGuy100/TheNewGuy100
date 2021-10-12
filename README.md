@@ -16,15 +16,33 @@
  <a href="#skills">Skills</a>
  .
  <a href="#contatos">Contatos</a>
+ .
+ <a href="#informações-pessoais">Informações pessoais</a>
 </p>
-
-
-
 
 ## INFORMAÇÕES DE REPOSITÓRIO
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true)
+
+## INFORMAÇÕES PESSOAIS
+ <p>
+  <a>
+   <img src="trabalho.png" align="center" width="30" >
+   Trabalhando atualmente na Compasso UOL
+   <img src="compasso.jpg" align="center" width="15" >
+  </a>
+  <br>
+  <a>
+   <img src="faculdade.png" align="center" width="30" >
+   Já na metade da faculdade de ciências da computação
+  </a>
+  <br>
+  <br>
+   <a>
+   Caso ache que mais alguma informação precisa ser mostrada aqui, por favor entre em contato.
+  </a>
+ </p>
 
 
 ## OBJETIVOS
@@ -32,6 +50,7 @@
 - [ ] Terminar meus estudos em C#
 - [ ] Aprender desenvolvimento de jogos em ambiente 3D
 - [ ] Melhorar minha velocidade e produção de modelos 3D
+- [ ] Finalizar bot de discord com funcionalidades gerais de administração até utilitários para os usuários
 
 ## SKILLS
   **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE:**
