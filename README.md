@@ -3,22 +3,37 @@
 
 
 <p align="center">
- <img src="./image.png" align="center", width="300">
+ <img src="./image.png" align="center", width="200">
 </p>
 <h1 align="center"> Pedro Henrique Bohn Costa </h1>
-
+<p align="center"> meu perfil principal no github </p>
 <!-- &repo=github-readme-stats -->
+<p align="center">
+ <a href="#informações-de-repositório">Status dos repositórios</a>
+ .
+ <a href="#objetivos">Objetivos</a>
+ .
+ <a href="#skills">Skills</a>
+ .
+ <a href="#contatos">Contatos</a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true)
 
-# OBJETIVOS
+
+
+## INFORMAÇÕES DE REPOSITÓRIO
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true)
+
+
+## OBJETIVOS
 - [ ] Terminar página de entrodução do github
 - [ ] Terminar meus estudos em C#
 - [ ] Aprender desenvolvimento de jogos em ambiente 3D
 - [ ] Melhorar minha velocidade e produção de modelos 3D
 
-# SKILLS
+## SKILLS
   **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE:**
   <br>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150" height="40">
@@ -45,7 +60,7 @@
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="120" height="40">
 
 
-# CONTATOS
+## CONTATOS
   <p>
     <img align="center" src="./facebook.png" width="45" height="45">
     <a>https://www.facebook.com/profile.php?id=100026288928919</a>
@@ -56,9 +71,13 @@
   </p>
   <p>
     <img align="center" src="./whatsapp.png" width="45" height="45">
-    (55) 055 98429-3654
+    wa.me/5555984293654
   </p>
   <p>
     <img align="center" src="./linkedin.png" width="45" height="45">
     <a>https://www.linkedin.com/in/pedro-costa-a5b0b1203/</a>
+  </p>
+  <p>
+    <img align="center" src="./gmail.png" width="45" height="45">
+    <a>pedromenezescosta271@gmail.com</a>
   </p>
