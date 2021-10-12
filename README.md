@@ -1,7 +1,11 @@
 
 <link rel="stylesheet" src="./customcss.css">
 
-# Pedro Henrique Bohn Costa
+
+<p align="center">
+ <img src="./image.png" align="center", width="500">
+</p>
+<h1 align="center"> Pedro Henrique Bohn Costa </h1>
 
 <!-- &repo=github-readme-stats -->
 
@@ -58,28 +62,3 @@
     <img align="center" src="./linkedin.png" width="45" height="45">
     <a>https://www.linkedin.com/in/pedro-costa-a5b0b1203/</a>
   </p>
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**TheNewGuy100/TheNewGuy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
