@@ -4,7 +4,7 @@
 
 
 # SKILLS
-  LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE: |
+  **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU POSSUO CONTATO CONSTANTE:** |
   <br>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150" height="40">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="150" height="40">
@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="130" height="40">
     <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" width="150" height="40">
   <br>
-  LINGUAGENS, SO E/OU FRAMEWORKS QUE EU TIVE POUCO CONTATO: |
+  <br>
+  **LINGUAGENS, SO E/OU FRAMEWORKS QUE EU TIVE POUCO CONTATO:** |
   <br>
       <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" width="120" height="40">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="100" height="40">
