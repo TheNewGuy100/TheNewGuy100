@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img src="./image.png" align="center", width="200">
+ <img src="./personal.png" align="center", width="400">
 </p>
 <h1 align="center"> Pedro Henrique Bohn Costa </h1>
 <p align="center"> meu perfil principal no github </p>
