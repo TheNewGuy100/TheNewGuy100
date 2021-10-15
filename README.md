@@ -6,7 +6,6 @@
  <img src="./personal.png" align="center", width="400">
 </p>
 <h1 align="center"> Pedro Henrique Bohn Costa </h1>
-<p align="center"> meu perfil principal no github </p>
 <!-- &repo=github-readme-stats -->
 <p align="center">
  <a href="#informações-de-repositório">Status dos repositórios</a>
@@ -14,7 +13,7 @@
  <a href="#objetivos">Objetivos</a>
  .
  <a href="#skills">Skills</a>
- .
+ <br>
  <a href="#contatos">Contatos</a>
  .
  <a href="#informações-pessoais">Informações pessoais</a>
