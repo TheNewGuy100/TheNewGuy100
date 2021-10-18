@@ -45,7 +45,7 @@
 
 
 ## OBJETIVOS
-- [ ] Terminar página de entrodução do github
+- [ ] Terminar página de introdução do github
 - [ ] Terminar meus estudos em C#
 - [ ] Aprender desenvolvimento de jogos em ambiente 3D
 - [ ] Melhorar minha velocidade e produção de modelos 3D
