@@ -13,7 +13,7 @@
 
 </h1>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100&layout=compact&card_width=445)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100&layout=compact&card_width=250)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true&line_height=20&card_width=50)
 
 #
