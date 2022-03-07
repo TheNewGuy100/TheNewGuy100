@@ -2,7 +2,7 @@
 #
 
 
-<h1>| Pedro Henrique Bohn Costa |
+<h1>Pedro Henrique Bohn Costa
   <div style='display:inline-block;'>
   
   [<img src="https://img.icons8.com/material/24/ffffff/facebook--v1.png"/>](https://www.facebook.com/profile.php?id=100026288928919)
