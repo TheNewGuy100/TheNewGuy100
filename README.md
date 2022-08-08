@@ -1,8 +1,17 @@
 
-#
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+  </head>
 
-
-<h1>Pedro Henrique Bohn Costa
+  <body>
+  <h1>Pedro Henrique Bohn Costa
   <div style='display:inline-block;'>
   
   [<img src="https://img.icons8.com/material/24/ffffff/facebook--v1.png"/>](https://www.facebook.com/profile.php?id=100026288928919)
@@ -55,3 +64,11 @@
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="150" height="40">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="120" height="40">
+
+  </body>
+
+  <style>
+    
+  </style>
+
+</html>

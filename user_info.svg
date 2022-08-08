@@ -5,21 +5,21 @@
     <!-- definitions -->
     <defs>
         <clipPath id="circleView">
-            <circle cx="250" cy="125" r="125" fill="#FFFFFF" />
+            <circle id="image_box"/>
         </clipPath>
     </defs>
 
     <!-- image user -->
     <image
         width="500" 
-        height="250" 
-        xlink:href="./public/cp_logo.png" 
-        clip-path="url(#circleView)"
+        height="250"
+        xlink:href="https://github.com/TheNewGuy100/TheNewGuy100/blob/main/public/cp_logo.png?raw=true" 
+        clip-path="url(#image_box)"
     />
 
     <!-- drawings -->
     <rect id="background" width="100vw" height="100vw"/>
-    <circle id="image_box"/>
+
 
     <rect id="sepation_bar" width="100" height="100" />
 </svg>
@@ -46,7 +46,6 @@
     /* user image definition */
     #image_box {
         clip-path: "./public/cp_logo.png";
-        fill: black;
 
         r: 10vw;
         cx: 15vw;
