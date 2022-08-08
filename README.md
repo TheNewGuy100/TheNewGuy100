@@ -66,8 +66,18 @@
   </body>
 
   <style>
-    #teste:hover {
-      transform: scale(1.2);
+    h1 {
+      color: red;
+      animation: myanimation 2s infinite;
+    }
+
+    @keyframes myanimation {
+      from {
+        color: red;
+      }
+      to {
+        color: yellow;
+      }
     }
   </style>
 
