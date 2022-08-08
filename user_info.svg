@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<svg id="svg_box">
+<svg id="svg_box" width="100vw" height="100vh">
 
     <!-- definitions -->
     <defs>
         <clipPath id="circleView">
-            <circle id="image_box"/>
+            <circle id="image_box" r="10vw" cx="15vw" cy="10vh"/>
         </clipPath>
     </defs>
 
@@ -18,37 +18,7 @@
     />
 
     <!-- drawings -->
-    <rect id="background" width="100vw" height="100vw"/>
+    <rect id="background" fill="#f0f0f0" width="100vw" height="100vw"/>
 
-
-    <rect id="sepation_bar" width="100" height="100" />
+    <rect id="sepation_bar" x="5vw" width="90vw" height="2px" width="100" height="100" />
 </svg>
-
-<style>
-    /* box definitions */
-    #svg_box {
-        width: 100vw;
-        height: 100vh;
-    }
-
-    /* background definitions */
-    #background {
-        fill: #f0f0f0;
-    }
-
-    /* separation bar for the topics */
-    #sepation_bar {
-        x: 5vw;
-        width: 90vw;
-        height: 2px;
-    }
-
-    /* user image definition */
-    #image_box {
-        clip-path: "./public/cp_logo.png";
-
-        r: 10vw;
-        cx: 15vw;
-        cy: 10vh;
-    }
-</style>
