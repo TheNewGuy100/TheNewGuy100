@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <svg id="svg_box" width="100vw" height="100vh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <!-- drawings -->
+    <rect id="background" fill="#f0f0f0" width="100vw" height="100vw"/>
 
     <!-- definitions -->
     <defs>
@@ -16,9 +19,6 @@
         xlink:href="https://github.com/TheNewGuy100/TheNewGuy100/blob/main/public/cp_logo.png?raw=true" 
         clip-path="url(#image_box)"
     />
-
-    <!-- drawings -->
-    <rect id="background" fill="#f0f0f0" width="100vw" height="100vw"/>
 
     <rect id="sepation_bar" x="5vw" width="90vw" height="2px"/>
 </svg>
