@@ -53,9 +53,8 @@
 
 
 #
-<h2 align="center"> ```diff
-  @@ Skills
-  ```</h2>
+
+  <h2 align="center" style="font-size:150px;">Skills</h2>
 
   <div align="center">
 
