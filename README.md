@@ -10,8 +10,6 @@
 
   <body>
   
-  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-  
     <h1 id="teste">Pedro Henrique Bohn Costa</h1>
     <div style='display:inline-block;'>
   
@@ -22,10 +20,13 @@
   </div>
 </h1>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100&layout=compact&card_width=250)
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true&line_height=20&card_width=50)
+ <div align="center" width="100vw">
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewGuy100&layout=compact&card_width=445px)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheNewGuy100&count_private=true&show_icons=true&line_height=20&card_width=250px)
+  
+ </div>
 
- ![Personal SVG]()
 
 #
 ### 🧐**Personal Information**
