@@ -11,9 +11,7 @@
   <body>
   
   <div align="center" background-color="white">
-  <img src="./public/cp_logo.png" height="300vh">
 
-  ***Code***
   <h1>Pedro Henrique Bohn Costa
   
 
