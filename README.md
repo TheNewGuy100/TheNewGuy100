@@ -39,11 +39,9 @@
 #
 <h1 align="center"> 🧐Personal Information </h1>
 
-  **hello Developers 🙃!**, I a 21 years old developer studying in highschool computer science to take my bachelor degree and working with different types of frameworks and languages. My most experienced one is typescript at the moment, i'm really into seeing new frameworks, languages and studying new methods for implementation. If you want someone to discuss, chat, or if you have an steam account and you want to play anytime you can add me here:
+  **hello Developers 🙃!**, I a 21 years old developer studying in highschool computer science to take my bachelor degree and working with different types of frameworks and languages. My most experienced one is typescript at the moment, i'm really into seeing new frameworks, languages and studying new methods for implementation.
   
   <h2 align="center">
-
-  [hey! over here!!](https://steamcommunity.com/id/QSSJohnCena) (👉ﾟヮﾟ)👉
 
   </h2>
 
