@@ -17,7 +17,7 @@
 
 
   [<img src="https://img.icons8.com/material/24/ffffff/facebook--v1.png"/>](https://www.facebook.com/profile.php?id=100026288928919)
-  [<img src="https://img.icons8.com/material/24/ffffff/linkedin--v3.png"/>](https://www.linkedin.com/in/pedro-costa-a5b0b1203/)
+  [<img src="https://img.icons8.com/material/24/ffffff/linkedin--v3.png"/>]([https://www.linkedin.com/in/pedro-costa-a5b0b1203/](https://www.linkedin.com/in/pedro-henrique-bohn-costa/?locale=en-US))
   [<img src="https://img.icons8.com/ios-filled/24/ffffff/whatsapp--v1.png"/>](https://api.whatsapp.com/send/?phone=5555984293654&text&app_absent=0)
   [<img src="https://img.icons8.com/glyph-neue/24/ffffff/gmail.png"/>](https://mail.google.com/mail/u/0/?fs=1&to=pedromenezescosta271@gmail.com&su=Digite%20seu%20subjetivo%20aqui&tf=cm)
   
