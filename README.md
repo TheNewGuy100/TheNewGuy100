@@ -28,11 +28,11 @@
   </div>
 
  
-  Sou Desenvolvedor Full Stack com experiência prática em tecnologias modernas e foco em criação de soluções completas de software. Tenho formação pela Universidade Regional Integrada do Alto Uruguai e das Missões (URI), onde contribuo para projetos que combinam boas práticas de engenharia de software com inovação e eficiência.
+I am a Full Stack Developer with practical experience in modern technologies and a focus on creating complete software solutions. I graduated from the Universidade Regional Integrada do Alto Uruguai e das Missões (URI), where I contribute to projects that combine good software engineering practices with innovation and efficiency.
 
-Tenho interesse profundo por desenvolvimento web e soluções que entreguem valor real às pessoas e aos negócios. Sou motivado por desafios que me permitem aprender continuamente, explorar novas ferramentas e aplicar criatividade técnica na resolução de problemas. Trabalhar em colaboração com equipes multidisciplinares, onde posso agregar minhas habilidades em front-end e back-end, é algo que valorizo em minha trajetória profissional.
+I have a deep interest in web development and solutions that deliver real value to people and businesses. I am motivated by challenges that allow me to learn continuously, explore new tools, and apply technical creativity to problem-solving. Working collaboratively with multidisciplinary teams, where I can combine my front-end and back-end skills, is something I value in my professional career.
 
-Busco sempre manter uma postura proativa, alinhando o desenvolvimento técnico com a entrega de resultados e o crescimento contínuo, tanto individual quanto coletivo.
+I always strive to maintain a proactive stance, aligning technical development with the delivery of results and continuous growth, both individually and collectively.
 
   </body>
 </html>
